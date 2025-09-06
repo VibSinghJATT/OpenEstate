@@ -9,6 +9,68 @@ Apple-like minimal UI. Fractional real estate investing demo with:
 ## Run
 ```bash
 npm install
-cp .env.local.example .env.local   # or keep the prefilled .env.local
+cp .env.local.example .env.local   # or keep the prefilled .env.locala# 🏠 OpenEstate – Fractional Real Estate Investment Platform
+
+> **Invest in premium real estate from ₹5,000**  
+> Transparent. Secure. Blockchain-backed.  
+> Apple-like UI with a futuristic experience ✨
+
+---
+
+## 🚀 Why OpenEstate?
+- 📂 Verified properties with full title docs & valuation  
+- 💳 Buy fractional tokens (simulated payments)  
+- 📊 Track rental income & token ownership in real time  
+- ⛓️ Blockchain logs for full transparency  
+- 🔄 Liquidity via secondary market (mock trading)  
+- 🎬 Smooth Apple-style animations (GSAP-powered)  
+
+---
+
+## 📸 Demo Screenshots
+### Homepage
+![Homepage](public/screenshots/home.png)
+
+### Property Page
+![Property](public/screenshots/property.png)
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+---
+
+## 🔑 MVP Flow (Live Demo)
+1. **Sign Up & KYC** → quick onboarding with phone/email.  
+2. **Browse Properties** → price, rent yield, docs, token availability.  
+3. **Buy Tokens (Simulated)** → payment via Bank/PayPal/Cashfree.  
+4. **View Dashboard** → wallet balance, payouts, blockchain explorer.  
+5. **Trade Tokens** → sell to other users in secondary market (mock).  
+
+---
+
+## 💡 Value Proposition
+- **Investors**: Start small, diversify into real estate, track ROI.  
+- **Property Owners**: Unlock liquidity without selling entire asset.  
+- **Market**: Mobilize locked ₹330+ lakh crore wealth into capital.  
+
+---
+
+## 🛠 Tech Highlights
+- Next.js + React  
+- GSAP animations  
+- Firebase Auth (Email, Phone, Google, Microsoft, Apple)  
+- Simulated payments (Bank, PayPal, Cashfree)  
+- Blockchain-lite logging  
+- Vercel hosting  
+
+---
+
+## 📜 License
+MIT License © 2025 [VibSinghJATT](https://github.com/VibSinghJATT)
+
+---
+
+✨ *OpenEstate is currently an MVP demo for IITB – showing the future of fractional real estate investing.*
+
 npm run dev
 ```
