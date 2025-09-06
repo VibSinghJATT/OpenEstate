@@ -1,22 +1,11 @@
-# OpenEstate – Demo (GSAP + Simulated Payments + Fake Chain)
+# OpenEstate – Demo
 
 Apple-like minimal UI. Fractional real estate investing demo with:
 - GSAP scroll animations
 - Simulated payments (Bank/PayPal/Cashfree)
 - Property PDFs
 - Faux blockchain explorer
-
-## Run
-```bash
-npm install
-cp .env.local.example .env.local   # or keep the prefilled .env.locala# 🏠 OpenEstate – Fractional Real Estate Investment Platform
-
-> **Invest in premium real estate from ₹5,000**  
-> Transparent. Secure. Blockchain-backed.  
-> Apple-like UI with a futuristic experience ✨
-
----
-
+  
 ## 🚀 Why OpenEstate?
 - 📂 Verified properties with full title docs & valuation  
 - 💳 Buy fractional tokens (simulated payments)  
