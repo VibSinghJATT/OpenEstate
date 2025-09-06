@@ -61,5 +61,3 @@ MIT License © 2025 [VibSinghJATT](https://github.com/VibSinghJATT)
 
 ✨ *OpenEstate is currently an MVP demo for IITB – showing the future of fractional real estate investing.*
 
-npm run dev
-```
