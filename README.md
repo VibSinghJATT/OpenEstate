@@ -1,4 +1,28 @@
-# OpenEstate – Demo
+<p align="center">
+  <img src="public/logo.png" alt="OpenEstate Logo" width="200"/>
+</p>
+
+<h1 align="center">OpenEstate</h1>
+
+<p align="center">
+  Own Real Estate Like Buying Shares. <br/>
+  Fractional • Transparent • Compliant • Simulated MVP
+</p>
+
+---
+
+## ✨ Features
+- 🔐 OTP Login & KYC (simulated with Firebase & Digilocker)
+- 🏠 Browse property listings with full docs (PDFs)
+- 💸 Buy tokens (mock payments: PayPal, Bank, Cashfree)
+- 📊 Portfolio dashboard with rent distribution
+- 🔄 Secondary market simulation
+- ⛓ Blockchain-lite ledger simulation (Ethereum testnet ready)
+- 🎨 Apple-like UI with GSAP animations
+
+---
+
+## 📂 Project Structure
 
 Apple-like minimal UI. Fractional real estate investing demo with:
 - GSAP scroll animations
