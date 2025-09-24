@@ -17,7 +17,7 @@ export default function PaymentModal({onClose,property}){
   return (
     <div style={{position:'fixed',inset:0,display:'flex',alignItems:'center',justifyContent:'center',zIndex:60}}>
       <div style={{width:520}} className="card">
-        <h3 style={{margin:0}}>Apple-style Checkout</h3>
+        <h3 style={{margin:0}}>Checkout</h3>
         <p style={{color:'#9a9a9a'}}>Choose method</p>
         <div style={{display:'flex',gap:10}}>
           <button className="btn" onClick={()=>setMethod('bank')} style={{flex:1,background:method==='bank'?'#0ea5e9':''}}>Bank UPI</button>
