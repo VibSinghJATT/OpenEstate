@@ -25,7 +25,7 @@ export default function Navbar() {
     >
       {/* Logo */}
       <Link href="/" className="flex items-center space-x-2 nav-item">
-        <Image src="/logo.png" alt="OpenEstate Logo" width={40} height={40} />
+        <Image src="/logo.jpeg" alt="OpenEstate Logo" width={40} height={40} />
         <span className="text-xl font-bold text-white">OpenEstate</span>
       </Link>
 
