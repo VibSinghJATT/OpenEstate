@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pune-2bhk",
+    "title": "Pune 2BHK Apartment",
+    "price": 18000000,
+    "tokens": 100000,
+    "rentMonthly": 45000
+  },
+  {
+    "id": "bangalore-it",
+    "title": "Bangalore IT Park Fraction",
+    "price": 50000000,
+    "tokens": 500000,
+    "rentMonthly": 300000
+  },
+  {
+    "id": "goa-villa",
+    "title": "Goa Vacation Villa",
+    "price": 22000000,
+    "tokens": 150000,
+    "rentMonthly": 80000
+  }
+]
